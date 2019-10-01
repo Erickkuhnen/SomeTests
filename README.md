@@ -1,4 +1,4 @@
 # SomeTests
 learning how to use the program
 
-On this projet i'll try to make a cade to practice
+In this project i'll try to make a code to practice
